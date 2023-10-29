@@ -128,3 +128,5 @@ dmypy.json
 4. Insurance Premium with AWS SageMaker AutoPilot/~$AI in Business With AWS AutoPilot.pptx
 
 .DS_Store
+
+.idea/
