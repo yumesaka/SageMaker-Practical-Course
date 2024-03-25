@@ -134,3 +134,7 @@ SageMaker-Practical-Course/4. Insurance Premium with AWS SageMaker AutoPilot/~$A
 config_my.json
 
 sagemaker-examples-custom/data.csv
+
+sagemaker-examples-custom/sagemaker-python-sdk/tensorflow_script_mode_training_and_serving/train_data.npy
+
+sagemaker-examples-custom/sagemaker-python-sdk/tensorflow_script_mode_training_and_serving/train_labels.npy
