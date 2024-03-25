@@ -130,3 +130,7 @@ SageMaker-Practical-Course/4. Insurance Premium with AWS SageMaker AutoPilot/~$A
 .DS_Store
 
 .idea/
+
+config_my.json
+
+sagemaker-examples-custom/data.csv
