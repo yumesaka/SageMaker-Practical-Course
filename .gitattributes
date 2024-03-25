@@ -1,3 +1,6 @@
 *.p filter=lfs diff=lfs merge=lfs -text
 3.[[:space:]]Retail[[:space:]]Sales[[:space:]]Prediction/train.csv filter=lfs diff=lfs merge=lfs -text
 5.[[:space:]]Traffic[[:space:]]Sign[[:space:]]Classification[[:space:]]with[[:space:]]Deep[[:space:]]Learning/data/* filter=lfs diff=lfs merge=lfs -text
+SageMaker-Practical-Course/5.[[:space:]]Traffic[[:space:]]Sign[[:space:]]Classification[[:space:]]with[[:space:]]Deep[[:space:]]Learning/data/training.npz filter=lfs diff=lfs merge=lfs -text
+SageMaker-Practical-Course/5.[[:space:]]Traffic[[:space:]]Sign[[:space:]]Classification[[:space:]]with[[:space:]]Deep[[:space:]]Learning/data/validation.npz filter=lfs diff=lfs merge=lfs -text
+SageMaker-Practical-Course/3.[[:space:]]Retail[[:space:]]Sales[[:space:]]Prediction/train.csv filter=lfs diff=lfs merge=lfs -text
