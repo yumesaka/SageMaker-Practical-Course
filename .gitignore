@@ -138,3 +138,9 @@ sagemaker-examples-custom/data.csv
 sagemaker-examples-custom/sagemaker-python-sdk/tensorflow_script_mode_training_and_serving/train_data.npy
 
 sagemaker-examples-custom/sagemaker-python-sdk/tensorflow_script_mode_training_and_serving/train_labels.npy
+
+sagemaker-examples-custom/advanced_functionality/autogluon-tabular-containers/data/
+
+sagemaker-examples-custom/advanced_functionality/autogluon-tabular-containers/model.tar.gz
+
+sagemaker-examples-custom/advanced_functionality/autogluon-tabular-containers/test_no_header.csv.out
