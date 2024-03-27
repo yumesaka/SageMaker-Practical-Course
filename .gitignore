@@ -144,3 +144,5 @@ sagemaker-examples-custom/advanced_functionality/autogluon-tabular-containers/da
 sagemaker-examples-custom/advanced_functionality/autogluon-tabular-containers/model.tar.gz
 
 sagemaker-examples-custom/advanced_functionality/autogluon-tabular-containers/test_no_header.csv.out
+
+sagemaker-examples-custom/serverless-inference/abalone_dataset1_train.csv
