@@ -146,3 +146,9 @@ sagemaker-examples-custom/advanced_functionality/autogluon-tabular-containers/mo
 sagemaker-examples-custom/advanced_functionality/autogluon-tabular-containers/test_no_header.csv.out
 
 sagemaker-examples-custom/serverless-inference/abalone_dataset1_train.csv
+
+sagemaker-examples-custom/sagemaker_processing/basic_sagemaker_data_processing/census-income.csv
+
+sagemaker-examples-custom/sagemaker_processing/basic_sagemaker_data_processing/dataset.csv
+
+sagemaker-examples-custom/sagemaker_processing/basic_sagemaker_data_processing/preprocessing.py
